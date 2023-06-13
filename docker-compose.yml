@@ -6,7 +6,7 @@ services:
         build:
             context: .
             dockerfile: php/Dockerfile
-        container_name: php-app
+        container_name: app
         ports:
             - 80:80        
         networks:
