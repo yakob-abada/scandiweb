@@ -20,6 +20,10 @@ Installation
 - Run `docker compose up`.
 - Open in the browser `http://localhost/product/all`.
 
+Tests
+-----
+- Run `make tests`
+
 How does it work?
 ------------------ 
 - Working directory: `php`.
