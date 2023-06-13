@@ -11,6 +11,8 @@ Introduction
 - It follows Solid principles.
 - Code has been covered by PHPunit.
 - Github actions pipeline has been set up to run tests.
+- php:8.2
+- mysql:5.6
 
 Installation
 ------------
